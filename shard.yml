@@ -1,0 +1,13 @@
+name: cc_socket
+version: 0.1.0
+
+authors:
+  - taicsuzu <taicsuzu@yahoo-corp.jp>
+
+targets:
+  cc_socket:
+    main: src/cc_socket.cr
+
+crystal: 0.23.1
+
+license: MIT
